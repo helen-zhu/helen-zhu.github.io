@@ -11,7 +11,7 @@ I completed my MSc in computational biology in Dr. Juri Reimand's lab working on
 
 A few facts that you won't find on my C.V. are that I love biking and exploring the city, particularly the museums, and finding new restaurants!
 
-Like many graduate students, I love to caffeinate and meet new people. Please get in touch if you would to chat!
+Like many graduate students, I love to caffeinate and meet new people. Please get in touch if you would like to chat!
 
 {:.center}
 {% endcapture %}
