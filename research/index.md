@@ -16,5 +16,3 @@ My Ph.D. research focuses on characterizing m<sup>6</sup>A methylation in primar
 
 
 {% include section.html %}
-
-{% include list.html data="citations" component="citation" style="rich" %}
