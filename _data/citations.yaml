@@ -16,6 +16,7 @@
   publisher: NAR genomics and bioinformatics
   date: '2021-02-23'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33655208
+  image: https://pubmed.ncbi.nlm.nih.gov/33655208/#&gid=article-figures&pid=figure-1-uid-0
 - id: doi:10.1016/j.molcel.2019.12.027
   title: Candidate Cancer Driver Mutations in Distal Regulatory Elements and Long-Range
     Chromatin Interaction Networks
@@ -46,6 +47,7 @@
   publisher: Molecular Cell
   date: '2020-03-01'
   link: https://doi.org/gjjxjq
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1097276519309578-fx1.jpg
 - id: doi:10.1038/s41467-021-21883-0
   title: The transcriptional landscape of Shh medulloblastoma
   authors:
@@ -151,6 +153,7 @@
   publisher: Nature Communications
   date: '2021-03-19'
   link: https://doi.org/gjhpr6
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-021-21883-0/MediaObjects/41467_2021_21883_Fig1_HTML.png
 - id: doi:10.1038/s41467-019-13983-9
   title: Integrative pathway enrichment analysis of multivariate omics data
   authors:
@@ -168,3 +171,4 @@
   publisher: Nature Communications
   date: '2020-02-05'
   link: https://doi.org/ggkfnm
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-019-13983-9/MediaObjects/41467_2019_13983_Fig1_HTML.png
