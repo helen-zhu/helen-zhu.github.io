@@ -1,5 +1,29 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: 10.1158/1541-7786.MCR-21-0471
+  title: Mutations in Noncoding Cis-Regulatory Elements Reveal Cancer Driver Cistromes
+    in Luminal Breast Cancer
+  authors:
+  - Samah El Ghamrasni
+  - Rene Quevedo
+  - James Hawley
+  - Parisa Mazrooei
+  - Youstina Hanna
+  - Iulia Cirlan
+  - Helen Zhu
+  - Jeff P. Bruce
+  - Leslie E. Oldfield
+  - S.Y. Cindy Yang
+  - Paul Guilhamon
+  - "J\xFCri Reimand"
+  - Dave W. Cescon
+  - Susan J. Done
+  - Mathieu Lupien
+  - Trevor J. Pugh
+  publisher: Molecular Cancer Research
+  date: '2021-09-23'
+  link: https://doi.org/gn3zsw
+  image: https://mcr.aacrjournals.org/content/molcanres/20/1/102/F1.large.jpg
 - id: PMID:33655208
   title: 'Single-cell mapper (scMappR): using scRNA-seq to infer the cell-type specificities
     of differentially expressed genes.'
@@ -16,6 +40,7 @@
   publisher: NAR genomics and bioinformatics
   date: '2021-02-23'
   link: https://www.ncbi.nlm.nih.gov/pubmed/33655208
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7902236/bin/lqab011fig1.jpg
 - id: doi:10.1016/j.molcel.2019.12.027
   title: Candidate Cancer Driver Mutations in Distal Regulatory Elements and Long-Range
     Chromatin Interaction Networks
@@ -46,6 +71,7 @@
   publisher: Molecular Cell
   date: '2020-03-01'
   link: https://doi.org/gjjxjq
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1097276519309578-fx1.jpg
 - id: doi:10.1038/s41467-021-21883-0
   title: The transcriptional landscape of Shh medulloblastoma
   authors:
@@ -151,6 +177,7 @@
   publisher: Nature Communications
   date: '2021-03-19'
   link: https://doi.org/gjhpr6
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-021-21883-0/MediaObjects/41467_2021_21883_Fig1_HTML.png
 - id: doi:10.1038/s41467-019-13983-9
   title: Integrative pathway enrichment analysis of multivariate omics data
   authors:
@@ -168,3 +195,4 @@
   publisher: Nature Communications
   date: '2020-02-05'
   link: https://doi.org/ggkfnm
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-019-13983-9/MediaObjects/41467_2019_13983_Fig1_HTML.png
