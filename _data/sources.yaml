@@ -1,12 +1,12 @@
 - id: doi:10.1093/jnci/djad001
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/10086625/bin/djad001f1.jpg
-  
+
 - id: doi:10.1038/s41467-022-35118-3
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-022-35118-3/MediaObjects/41467_2022_35118_Fig1_HTML.png
 
 - id: 10.1158/1541-7786.MCR-21-0471
-  image: https://mcr.aacrjournals.org/content/molcanres/20/1/102/F1.large.jpg
-
+  image: https://aacr.silverchair-cdn.com/aacr/content_public/journal/mcr/20/1/10.1158_1541-7786.mcr-21-0471/5/m_102fig1.jpeg
+  
 - id: PMID:33655208
   image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/7902236/bin/lqab011fig1.jpg
 
