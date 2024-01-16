@@ -1,5 +1,33 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1093/jnci/djad001
+  title: A polygenic two-hit hypothesis for prostate cancer
+  authors:
+  - Kathleen E Houlahan
+  - Julie Livingstone
+  - Natalie S Fox
+  - Natalie Kurganovs
+  - Helen Zhu
+  - Jocelyn Sietsma Penington
+  - Chol-Hee Jung
+  - Takafumi N Yamaguchi
+  - Lawrence E Heisler
+  - Richard Jovelin
+  - Anthony J Costello
+  - Bernard J Pope
+  - Amar U Kishan
+  - Niall M Corcoran
+  - Robert G Bristow
+  - Sebastian M Waszak
+  - Joachim Weischenfeldt
+  - Housheng H He
+  - Rayjean J Hung
+  - Christopher M Hovens
+  - Paul C Boutros
+  publisher: 'JNCI: Journal of the National Cancer Institute'
+  date: '2023-01-05'
+  link: https://doi.org/gtdwx4
+  image: https://www.ncbi.nlm.nih.gov/pmc/articles/instance/10086625/bin/djad001f1.jpg
 - id: doi:10.1038/s41467-022-35118-3
   title: Characterization of an RNA binding protein interactome reveals a context-specific
     post-transcriptional landscape of MYC-amplified medulloblastoma
