@@ -10,7 +10,7 @@ nav:
 
 My graduate research broadly lies in the fields of cancer genomics and computational biology.
 
-**Cancer genomics** is the study of cancer using techniques from data science to analyze Next-Generation Sequencing data collected from tumours. These techniques allow us to identify driver mutations, molecular subtypes and dysregulated cellular pathways in a heterogeneous disease.
+**Cancer genomics** is the study of cancer using techniques from data science to analyze sequencing data collected from tumours.
 
 **Computational biology** is the development of methods to analyze biological data.
 
